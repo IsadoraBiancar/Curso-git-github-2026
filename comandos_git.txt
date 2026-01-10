@@ -1,2 +1,3 @@
 git init. - Cria um repósitorio git na pasta atual, mostra 
 gist status - Mosta o status do trabalho 
+mais teste

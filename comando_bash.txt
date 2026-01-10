@@ -1,2 +1,3 @@
 teste
 novas alterações
+rm -fm tome cuidado
