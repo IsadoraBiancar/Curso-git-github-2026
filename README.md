@@ -1,2 +1,2 @@
-\# Curso Tmw Git e Got Hub 2026
+\# Curso Tmw Git e Git Hub 2026
 
