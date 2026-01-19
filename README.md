@@ -8,3 +8,29 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 
 
+Fluxo de trabalho git hub
+
+
+
+git clone
+
+git checkout
+
+git status
+
+git add
+
+git commit -m
+
+git push origin (nova branch)
+
+abrir pull request no GitHub para main
+
+git checkout man
+
+git branch -D
+
+
+
+
+
