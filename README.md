@@ -6,7 +6,8 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Curso Git Integração com Visual Studio Code
 
-
+Git flow
+Como padronizar alterações do git 
 
 
 
