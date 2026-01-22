@@ -2,36 +2,18 @@
 
 
 
-Um curso para iniciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub. Alem disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
+Um curso para iniciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub. 
 
-Curso Git Integração com Visual Studio Code
+O curso contém
 
-Git flow
-Como padronizar alterações do git 
-
-
-
-Fluxo de trabalho git hub
-
-
-
-git clone
-
-git checkout
-
-git status
-
-git add
-
-git commit -m
-
-git push origin (nova branch)
-
-abrir pull request no GitHub para main
-
-git checkout man
-
-git branch -D
+Primeiros Comandos Git
+Lidando Com Branches
+Resolvendo Conflitos
+Realizando Pull Requests
+Criando Fork
+Integração Com Visual Studio Code
+Git Flow
+Gitignore E Gitkeep
 
 
 
